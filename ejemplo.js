@@ -1,1 +1,1 @@
-import react form react;
+import react from react;
